@@ -1,0 +1,1 @@
+export { default as GraphsCompanies } from './GraphsCompanies';
